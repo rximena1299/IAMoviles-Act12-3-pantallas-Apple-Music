@@ -98,10 +98,3 @@ class BienvenidaScreen extends StatelessWidget {
     );
   }
 }
-git init
-git add .
-git commit -m "Primer commit Act12"
-git branch -M main
-git remote remove origin 2>/dev/null
-git remote add origin https://github.com/rximena1299/IAMoviles-Act12-3-pantallas-Apple-Music.git
-git push -u origin main
