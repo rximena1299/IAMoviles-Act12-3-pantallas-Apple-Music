@@ -1,16 +1,8 @@
-# myapp
+# IAMoviles Act 12 navegación 3 pantallas  tu Negocio Flutter
 
-A new Flutter project.
+<img width="400" height="675" alt="image" src="https://github.com/user-attachments/assets/925ee33d-1a2f-4f1b-8bb3-f505c57a0e8d" />
+<img width="401" height="678" alt="image" src="https://github.com/user-attachments/assets/79c1a8b2-1805-4e56-b519-1ce0f3eaebe8" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="738" height="505" alt="image" src="https://github.com/user-attachments/assets/f47a9244-04ef-46da-80c7-a9abe64bfa5f" />
+<img width="742" height="511" alt="image" src="https://github.com/user-attachments/assets/2d36b31f-b1fa-4741-aedc-46efa747bfdc" />
+<img width="734" height="696" alt="image" src="https://github.com/user-attachments/assets/9ce045c3-6d31-447e-9f51-e48e643ff6aa" />
